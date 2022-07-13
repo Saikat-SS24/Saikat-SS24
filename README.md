@@ -1,7 +1,7 @@
 [![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Saikat Sheet</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" Width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" Width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikat-ss7&label=Profile%20views&color=0e75b6&style=flat" alt="saikat-ss7" /> </p>
 
