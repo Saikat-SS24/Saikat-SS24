@@ -40,4 +40,4 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikat-ss7&" alt="saikat-ss7" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS7&theme=bear)](https://git.io/streak-stats)
