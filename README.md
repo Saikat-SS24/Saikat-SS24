@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **SaikatSheet48@gmail.com**
 
-- 📄 Know about my experiences [https://saikat-sheet-portfolio.netlify.app/](https://saikat-sheet-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/saikat-sheet-5416b2225/](https://www.linkedin.com/in/saikat-sheet-5416b2225/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
