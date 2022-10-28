@@ -41,3 +41,5 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS7&theme=bear)](https://git.io/streak-stats)
+
+[![@saikat7's Holopin board](https://holopin.me/saikat7)](https://holopin.io/@saikat7)
