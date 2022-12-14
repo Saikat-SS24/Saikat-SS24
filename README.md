@@ -3,13 +3,13 @@
 <h3 align="center">I am a student and a coding enthusiast</h3>
 <img align="right" alt="Coding" Width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikat-ss7&label=Profile%20views&color=0e75b6&style=flat" alt="saikat-ss7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saikat-SS24&label=Profile%20views&color=0e75b6&style=flat" alt="Saikat-SS24" /> </p>
 
 - 🌱 I’m currently learning **AI & ML**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saikat-SS7](https://github.com/Saikat-SS7)
+- 👨‍💻 All of my projects are available at [https://github.com/Saikat-SS24](https://github.com/Saikat-SS24)
 
 - 📫 How to reach me **SaikatSheet48@gmail.com**
 
@@ -32,14 +32,14 @@
 
 <h3 align="left">Most Used Languages:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikat-ss7&theme=bear&show_icons=true&locale=en&layout=compact" alt="saikat-ss7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-SS24&theme=bear&show_icons=true&locale=en&layout=compact" alt="Saikat-SS24" /></p>
 
 <h3 align="left">Saikat Sheet's GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikat-ss7&theme=bear&show_icons=true&locale=en" alt="saikat-ss7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saikat-SS24&theme=bear&show_icons=true&locale=en" alt="Saikat-SS24" /></p>
 
 <h3 align="left">My GitHub Stats:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS7&theme=bear)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS24&theme=bear)](https://git.io/streak-stats)
 
 [![@saikat7's Holopin board](https://holopin.me/saikat7)](https://holopin.io/@saikat7)
