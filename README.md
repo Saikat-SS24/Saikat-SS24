@@ -43,3 +43,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS24&theme=bear)](https://git.io/streak-stats)
 
 [![@saikat7's Holopin board](https://holopin.me/saikat7)](https://holopin.io/@saikat7)
+
+<img align="center" alt="Coding" Width="400" src="https://www.reactiongifs.us/wp-content/uploads/2019/03/Thank-U.gif">
