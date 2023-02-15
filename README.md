@@ -1,4 +1,6 @@
-[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
+<p align="center">
+  <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" width="800px">
+</p>
 <h1 align="center">Hi 👋, I'm Saikat Sheet</h1>
 <h3 align="center">I am a student and a coding enthusiast</h3>
 <img align="right" alt="Coding" Width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
@@ -44,4 +46,6 @@
 
 [![@saikat7's Holopin board](https://holopin.me/saikat7)](https://holopin.io/@saikat7)
 
-<img align="center" alt="Coding" Width="400" src="https://www.reactiongifs.us/wp-content/uploads/2019/03/Thank-U.gif">
+<p align="center">
+  <img src="https://media.tenor.com/8v-f3499EkoAAAAM/thank-you.gif" width="400px">
+</p>
