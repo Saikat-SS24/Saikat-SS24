@@ -34,15 +34,21 @@
 
 <h3 align="left">Most Used Languages:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-SS24&theme=bear&show_icons=true&locale=en&layout=compact" alt="Saikat-SS24" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-SS24&theme=dark&show_icons=true&locale=en&layout=compact" alt="Saikat-SS24" />
+</p>
 
 <h3 align="left">Saikat Sheet's GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saikat-SS24&theme=bear&show_icons=true&locale=en" alt="Saikat-SS24" /></p>
+<p align="center">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikat-SS24&theme=dark&show_icons=true&locale=en" alt="Saikat-SS24" />
+</p>
 
 <h3 align="left">My GitHub Stats:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS24&theme=bear)](https://git.io/streak-stats)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS24&theme=dark" alt="https://git.io/streak-stats" />
+</p>
 
 [![@saikat7's Holopin board](https://holopin.me/saikat7)](https://holopin.io/@saikat7)
 
