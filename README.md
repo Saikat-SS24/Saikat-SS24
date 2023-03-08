@@ -51,7 +51,7 @@
 </p>
 
 <div align="center">
-  <h2>✅ MyContributions ✅</h2>
+  <h2>✅ My Contributions ✅</h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/Saikat-SS24/Saikat-SS24/blob/output/github-contribution-grid-snake.svg">
   <br>
