@@ -40,28 +40,23 @@
 
 <h3 align="left">📊 Saikat Sheet's GitHub Stats:</h3>
 
-<p align="center">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikat-SS24&theme=dark&show_icons=true&locale=en" alt="Saikat-SS24" />
-</p>
-
-<h3 align="left">📊 My GitHub Stats:</h3>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS24&theme=dark" alt="https://git.io/streak-stats" />
-</p>
-
-<h3 align="left">📛 My Holopin Badges:</h3>
-
-[![@saikat7's Holopin board](https://holopin.me/saikat7)](https://holopin.io/@saikat7)
+<br/>
+    <a href="https://github.com/Saikat-SS24/github-readme-stats"><img alt="Saikat-SS24" src="https://github-readme-stats.vercel.app/api?username=Saikat-SS24&theme=dark&show_icons=true&locale=en" /></a>
+  <a href="https://github.com/Saikat-SS24/github-readme-stats"><img alt="https://git.io/streak-stats" src="http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS24&theme=dark" /></a>
+<br/>
 
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <h2>✅ MyContribution ✅</h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/Saikat-SS24/Saikat-SS24/blob/output/github-contribution-grid-snake.svg">
   <br>
   <br>
   <br>
 </div>
+
+<h3 align="left">📛 My Holopin Badges:</h3>
+
+[![@saikat7's Holopin board](https://holopin.me/saikat7)](https://holopin.io/@saikat7)
 
 <p align="center">
   <img src="https://media.tenor.com/8v-f3499EkoAAAAM/thank-you.gif" width="400px">
