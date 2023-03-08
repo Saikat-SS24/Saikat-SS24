@@ -54,6 +54,16 @@
 
 [![@saikat7's Holopin board](https://holopin.me/saikat7)](https://holopin.io/@saikat7)
 
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/Saikat-SS24/Saikat-SS24/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
+
 <p align="center">
   <img src="https://media.tenor.com/8v-f3499EkoAAAAM/thank-you.gif" width="400px">
 </p>
+
