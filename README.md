@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="800px">
+  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="800px">
 </p>
 <h1 align="center">Hi 👋, I'm Saikat Sheet</h1>
 <h3 align="center">I am a student and a coding enthusiast</h3>
