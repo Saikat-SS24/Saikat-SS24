@@ -20,8 +20,8 @@
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saikat-sheet-5416b2225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikat sheet" height="30" width="40" /></a>
-<a href="https://www.facebook.com/saikat.sheet.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saikat sheet" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saikat_sheet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikat sheet" height="30" width="40" /></a>
+<a href="https://www.facebook.com/saikat.sheet.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saikat sheet" height="30" width="40" /></a>
 <a href="https://leetcode.com/Saikat_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saikat sheet" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/SaikatSheet48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saikat sheet" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saikatss7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saikat sheet" height="30" width="40" /></a>
