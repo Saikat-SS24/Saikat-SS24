@@ -43,14 +43,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS24&theme=dark" alt="https://git.io/streak-stats" />
 </p>
 
-<div align="center">
-  <h2>✅ My Contributions ✅</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/Saikat-SS24/Saikat-SS24/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
+![snake gif](https://github.com/Saikat-SS24/Saikat-SS24/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">📛 My Holopin Badges:</h3>
 
