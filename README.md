@@ -43,8 +43,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Saikat-SS24&theme=dark" alt="https://git.io/streak-stats" />
 </p>
 
-![snake gif](https://github.com/Saikat-SS24/Saikat-SS24/blob/output/github-contribution-grid-snake.svg)
-
 <h3 align="left">📛 My Holopin Badges:</h3>
 
 [![@saikat7's Holopin board](https://holopin.me/saikat7)](https://holopin.io/@saikat7)
