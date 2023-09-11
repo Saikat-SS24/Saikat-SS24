@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="800px">
+  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="800px">
 </p>
 <h1 align="center">Hi 👋, I'm Saikat Sheet</h1>
 <h3 align="center">I am a student and a coding enthusiast</h3>
