@@ -2,7 +2,7 @@
   <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="800px">
 </p>
 <h1 align="center">Hi 👋, I'm Saikat Sheet</h1>
-<h3 align="center">I am a student and a coding enthusiast</h3>
+<h3 align="center">I am a CSE student and a coding enthusiast</h3>
 <img align="right" alt="Coding" Width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saikat-SS24&label=Profile%20views&color=0e75b6&style=flat" alt="Saikat-SS24" /> </p>
