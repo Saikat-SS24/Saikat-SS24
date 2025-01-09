@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saikat-SS24](https://github.com/Saikat-SS24)
 
-- 📫 How to reach me **SaikatSheet48@gmail.com**
+- 📫 How to reach me **saikatsheet48@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saikat-sheet-5416b2225/](https://www.linkedin.com/in/saikat-sheet-5416b2225/)
 
