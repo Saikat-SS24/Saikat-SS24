@@ -48,7 +48,3 @@
 <h3 align="left">📛 My Holopin Badges:</h3>
 
 [![@saikat7's Holopin board](https://holopin.me/saikat7)](https://holopin.io/@saikat7)
-
-<p align="center">
-  <img src="https://media.tenor.com/8v-f3499EkoAAAAM/thank-you.gif" width="400px">
-</p>
