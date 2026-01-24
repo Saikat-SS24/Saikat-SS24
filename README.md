@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **saikatsheet48@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/saikat-sheet-5416b2225/](https://www.linkedin.com/in/saikat-sheet-5416b2225/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/saikat-sheet-5416b2225/](https://www.linkedin.com/in/saikatsheet/)
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
